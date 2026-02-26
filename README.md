@@ -1,1 +1,1 @@
-Description of projecr
+DESCRIPTION OF THE PROJECT
